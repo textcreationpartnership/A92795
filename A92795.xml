@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seasonable queries proposed to the consideration of the electors to a new Parliament</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92795</idno><idno type="EEBO-CITATION">99897852</idno>
+  <idno type="VID">137396</idno>
+  <idno type="EEBO-PROQUEST">2240922495</idno>
+  
+            <idno type="STC">Wing S2239C</idno>
+            <idno type="STC">ESTC R232186</idno>
+            <idno type="PROQUEST">99897852</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99897852e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92795)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137396)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2537:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Seasonable queries proposed to the consideration of the electors to a new Parliament</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Cropped at top affecting title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Elections --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:137396:1"/>
+            <head>Seasonable Queries <hi>PROPOSED To the Consideration of the Electors to a</hi> New PARLIAMENT.</head>
+            <p>THE Terrours which the <hi>French</hi> so lately gave be<g ref="char:EOLhyphen"/>ing returned upon themselves, who tremble for their Fleets in the very Harbours, and only play the <hi>Pyrates</hi> with some of their Ships, while their nume<g ref="char:EOLhyphen"/>rous Armies are but unwilling Witnesses of King <hi>Wil<g ref="char:EOLhyphen"/>liam</hi>'s Glories; It concerns them to manage their last Stake with all the fear and wariness of losing Gamesters; and since they dare no longer meet the <hi>Confederates</hi> in the Field, they must try all ways to divide them, or rather to distract the Councils of <hi>England,</hi> from whose Unanimi<g ref="char:EOLhyphen"/>ty and Expedition, the <hi>Confederacy</hi> is to receive support and vigour.</p>
+            <p>It is certain, that the Nation's wishes have concurred with his <hi>Majesty's</hi> Resolution for a <hi>new Parliament;</hi> and as <hi>His Majesty</hi> is desirous to meet his People; they are eager to testifie their gratitude to him, and to shew what they are when fairly represented; while their <hi>Members</hi> are such as they sent them up, after they had been chosen without the awe and influence of that <hi>Ministry,</hi> who absurdly pre<g ref="char:EOLhyphen"/>tended to serve the Government, though they at the same time continued the <hi>Heads</hi> of a party which was di<g ref="char:EOLhyphen"/>rectly against it; and which had sunck to nothing but for their Encouragement.</p>
+            <p>But since the present <hi>Ministers</hi> are entirely in the inte<g ref="char:EOLhyphen"/>rest of the publick, and therefore in his <hi>Majesties,</hi> this with the success of those Arms, which have kept the war from our doors, and are so near securing the repose of Chri<g ref="char:EOLhyphen"/>stendom, makes it impossible for the <hi>French</hi> faction to pre<g ref="char:EOLhyphen"/>vail at Elections without disguises; nor are they likely to serve themselves of any other than one of these three.</p>
+            <p n="1">1. Zeal for the <hi>Church</hi> of <hi>England.</hi>
+            </p>
+            <p n="2">2. For the <hi>Monarchy.</hi>
+            </p>
+            <p n="3">3. For the <hi>Publick Good.</hi>
+            </p>
+            <p>Upon every one of which it may be convenient to ask a few Questions, that it may the better be understood what men mean by pretences so specious, and what sort of Men they are that use them.</p>
+            <p n="1">1. By the <hi>Church</hi> of <hi>England</hi> do many mean, that <hi>Church</hi> which the <hi>French King</hi> declared he would maintain,
+<note place="margin">
+                  <hi>Of Zeal for the Church of</hi> England.</note> when his Fleet, to the perpetual reproach of the then Ministry, tri<g ref="char:EOLhyphen"/>umphed upon our Coasts: Or, that <hi>Church</hi> which King <hi>William</hi> rescued and protected, when that of <hi>Rome</hi> stood fair for being <hi>Mother</hi> to the <hi>Church of England by Law Established?</hi>
+            </p>
+            <p n="2">2. Is it not visible, that many mean the <hi>Old Church of England,</hi> as they call that little Flock, from which they will have the Body of the Nation who come into this Government to live in a State of <hi>Separation;</hi> though as a learned Bishop has admirably evinced, them<g ref="char:EOLhyphen"/>selves are as unreasonable <hi>Separatists</hi> as ever were in the world.
+<note place="margin">Vid. <hi>The un<g ref="char:EOLhyphen"/>reasonableness of the New Separation on account of the Oaths,</hi> Ed. An. 1689.</note>
+            </p>
+            <p n="3">3. Do not others, with as little sense, by the <hi>Church</hi> mean only <hi>Church-Men,</hi> according to the Notion which they have of the <hi>Church Representative?</hi> And do they not as mad<g ref="char:EOLhyphen"/>ly confine this to two or three hot-headed ambitious Per<g ref="char:EOLhyphen"/>sons, who would assume to themselves the <hi>Headship</hi> of the <hi>Church,</hi> and a <hi>Convocation</hi> with which that excellent Person the late <hi>Archbishop</hi> passed for a <hi>F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>natick,</hi> and those who would recognize his <hi>Majesty's Right,</hi> for <hi>Common-wealths Men?</hi>
+            </p>
+            <p n="4">4. Can Enemies to the <hi>State</hi> and <hi>Good</hi> of <hi>England,</hi> with any colour pretend to be Friends to the <hi>Church of Eng<g ref="char:EOLhyphen"/>land?</hi>
+            </p>
+            <p n="5">5. If any Spiritual Guide rides about the Countries giving the Allarum, as if this Parliament were called for the Destruction of the <hi>Church,</hi> Is it not evident that this is only an Artifice to undermine the <hi>State?</hi> And is it not too plain, that this is levelled against the King, with<g ref="char:EOLhyphen"/>out whose consent no alteration can be made; and who has reason to expect more Gratitude from them, who owe so much to him?</p>
+            <p n="6">6. Ought not the Activity of the <hi>deprived</hi> and <hi>discontented Church-men,</hi> who have not been advanced according to the Value they put upon themselves, to caution those that acknowledge the Right of this Government, and are for the true Interest of the <hi>Church,</hi> to beware of the Insinuati<g ref="char:EOLhyphen"/>ons of such Men; least they should get a Parliament to their minds, which would again put <hi>Protestants</hi> upon do<g ref="char:EOLhyphen"/>ing drudgery for the <hi>Papists,</hi> while one part were play'd against the other, till the <hi>Persecuters</hi> were left alone to be Martyrs to their own folly? it being as impossible that they should defend the <hi>Church</hi> by themselves, as that they should engross the Preferments, if the <hi>late King</hi> should return.</p>
+            <p n="7">7. Will not the over-business of these Men at <hi>Lay-Electi<g ref="char:EOLhyphen"/>ons,</hi> naturally put others upon the Enquiry, How long such of them as had no Lay-Fees, have pretended to give their Voices in Electing Parliament-Men? And if it should appear to have no earlier nor better foundation than Pra<g ref="char:EOLhyphen"/>ctice and Usurpation of late days, may not the <hi>Laity</hi> be tempted to insist upon the <hi>Ancient Constitution</hi> in this mat<g ref="char:EOLhyphen"/>ter; and many a well-penn'd <hi>Circular Letter,</hi> to the distur<g ref="char:EOLhyphen"/>bance of Elections, be condemned to the Flames?</p>
+            <p n="8">8. When Men observe, that they who talk loudest for the <hi>Church,</hi> have the least regard to its Offices and Ho<g ref="char:EOLhyphen"/>nour, other than in its Preferments, and are the most scandalous both of <hi>Clergy</hi> and <hi>Laity;</hi> can it well be thought that the <hi>Church</hi> is used otherwise, than as the Word to a Party, and a Commission to destroy all who have it not?</p>
+            <p>When Men are noisy about the <hi>Monar<g ref="char:EOLhyphen"/>chy,</hi>
+               <note place="margin">Of Zeal for the Monarchy.</note> it ought to be enquired,</p>
+            <p n="1">1. Whether the loudest of them are such, as have upon all Occasions served the <hi>present Government</hi> to their utmost; or those who op<g ref="char:EOLhyphen"/>posed its first Settlement, and have ever expressed an un<g ref="char:EOLhyphen"/>easiness under it, would neither have King <hi>William</hi> to be <hi>King,</hi> nor will yet admit his Title? If these be the Men of noise in this matter, is it not apparent, that their Con<g ref="char:EOLhyphen"/>cern is not for the <hi>Monarchy,</hi> but their <hi>Monarch,</hi> either <hi>Lewis</hi> of <hi>France,</hi> or his <hi>Deputy?</hi>
+            </p>
+            <p n="2">2. If again, the Men be such as were the <hi>Tools</hi> of the <hi>Pa<g ref="char:EOLhyphen"/>pists</hi> in former Reigns: If now they would stifle their Plots, and turn them upon the <hi>Protestants;</hi> is it not to be thought that they are more for a <hi>Spiritual</hi> than <hi>Temporal Monarchy;</hi> or at least are prepared to submit to the Usurped Authority of the <hi>Pope</hi> of <hi>Rome,</hi> as soon as any <hi>Bigotted Prince</hi> of that <hi>Per<g ref="char:EOLhyphen"/>swasion</hi> should get into the Throne.</p>
+            <p n="3">3. If they are such as in the late Reigns were for the <hi>Absolute Power of the Prince,</hi> as long as it was on their side, and were as much against it when they could no more have the playing of that Artillery which they had furnished; Is it not to be believed that they preferr a <hi>French</hi> or <hi>Turk<g ref="char:EOLhyphen"/>ish</hi> before an <hi>English Monarchy;</hi> or rather are for none, lon<g ref="char:EOLhyphen"/>ger than it serves them, and their pernicious Designs?</p>
+            <p n="4">4. If, according to their declared Notion of this <hi>Mo<g ref="char:EOLhyphen"/>narchy,</hi> it is so strictly tied to the First in the Line, be he <hi>Papist, Fool, Madman,</hi> or <hi>Tyrant,</hi> that while he lives, and has not actually resigned, whoever comes in upon the most unanimous Choice of the <hi>People,</hi> and <hi>States</hi> of the <hi>Realm,</hi> is an <hi>Usurper,</hi> or <hi>King</hi> only <hi>in Fact,</hi> but <hi>not of Right;</hi> Can they be thought to make a noise about the <hi>Monarchy</hi> with other intention, than to blemish the Title, and weaken the interest, of our <hi>present Monarch?</hi>
+            </p>
+            <p n="5">5. If they who were for a <hi>Regency</hi> would unmask, must it not appear, that either they were for the <hi>late King's</hi> con<g ref="char:EOLhyphen"/>tinuing the <hi>Title,</hi> and assuming the <hi>Power,</hi> as soon as their Party could prepare the way for him, which, by their Principles they were bound to do as soon as possible; or else, they were down-right for a <hi>Common-wealth?</hi> For what were a <hi>Regency</hi> settled without the Consent of the late <hi>King,</hi> and keeping possession against him, but a <hi>Common-Wealth?</hi>
+            </p>
+            <p n="6">6. Can the <hi>Surrenderers</hi> of <hi>Charters, Asserters</hi> of the <hi>Dis<g ref="char:EOLhyphen"/>pencing-Power, Corrupters</hi> of <hi>Juries, Perverters</hi> of <hi>Law</hi> for the destruction of the best <hi>Patriots, Imposers</hi> of <hi>Sheriffs</hi> contra<g ref="char:EOLhyphen"/>ry to <hi>Charters</hi> and <hi>Acts</hi> of <hi>Parliament,</hi> and the like, pretend Zeal for the Constitution of this <hi>Monarchy;</hi> and is it not a Jest, that the preservers of the <hi>Essentials</hi> of it should be thought <hi>Common-wealths</hi>-Men.</p>
+            <pb n="2" facs="tcp:137396:2"/>
+            <p>Let us enquire further, 1. Whether they who have rejoiced at every Advan<g ref="char:EOLhyphen"/>tage to the <hi>French;</hi>
+               <note place="margin">Of Zeal for the Publick.</note> when our Army was over-powred by Numbers, and our Fleet had ill success, are to be thought to wish well to the Publick?</p>
+            <p n="2">2. When Men have extolled the <hi>French</hi> Power and Con<g ref="char:EOLhyphen"/>duct, and the Honour of their <hi>Mareschals</hi> to be such, that no Town must be Surrendered while they are in it alive; Can it be thought that this was out of Love to the Good of <hi>England,</hi> and to encourage those that are for it?</p>
+            <p n="4">4. When Men pass-by the <hi>French King's</hi> Violations of Articles, and condemn our <hi>Reprisals</hi> to force the observa<g ref="char:EOLhyphen"/>tion of them; Are they to be accounted <hi>English-Men,</hi> or <hi>French-Men.</hi>
+            </p>
+            <p n="4">4. Can they who were for delaying <hi>Supplies,</hi> till the <hi>French</hi> had finished their Lines in <hi>Flanders,</hi> be thought to have promoted those Delays for the <hi>Good of</hi> England?</p>
+            <p n="5">5. Was it for this, that some have been for condemn<g ref="char:EOLhyphen"/>ing the happy Settlement of the <hi>present Government,</hi> and protested against it as destructive of the <hi>Monarchy?</hi>
+            </p>
+            <p n="6">6. Was it for this, that some were against the restore<g ref="char:EOLhyphen"/>ing the <hi>Charter</hi> of the <hi>City</hi> of <hi>London,</hi> and for continuing the <hi>Old Lieutenancy,</hi> when the <hi>French</hi> were expected to Land upon us?</p>
+            <p n="7">7. Was it for this, that some expressed so great sorrow for the sending our <hi>Fleet</hi> into the <hi>Mediterranean?</hi> Were they affraid, that while it sailed about those Seas carrying Terrour to the <hi>French,</hi> and Security to the Allies, it was in danger of being destroyed by the Worms?</p>
+            <p n="8">8. Was it for this, that some here so luckily jump'd together with the <hi>French Gazetteer,</hi> in condemning our <hi>Te<g ref="char:EOLhyphen"/>merity</hi> in leaving the Coasts unguarded? Is it not to be supposed, that they were alike concerned for the Good and Safety of <hi>England?</hi>
+            </p>
+            <p n="9">9. Was it for this, that a certain Person has taken his Circuit through above fifty <hi>Corporations,</hi> where he left it as a <hi>Test</hi> for those they should chuse, to be against the Act of Parliament for Liberty to dissenting Protestants, and to give no <hi>Money</hi> to keep up the <hi>Army?</hi>
+            </p>
+            <p n="10">10. Can the <hi>Good</hi> of <hi>England</hi> at this time be preserved without such an Army, to keep the <hi>French</hi> in play abroad, and prevent that inundation which must swallow us up, if <hi>England</hi> be not hearty in carrying on the War? of an happy issue of which, we have now so fair a prospect.</p>
+            <p n="11">11. If they who have been known to take <hi>Bribes</hi> for their Service in <hi>Parliament,</hi> by a softning Figure call'd <hi>Gratuities,</hi> talk high for the <hi>Publick Good,</hi> Can it be thought to be with other intention, than that they may have opportunitie to betray it? and is it not to be thought that they will be for <hi>France</hi> or <hi>England,</hi> according to the weight of the Temptation?</p>
+            <p>To conclude, it is our happiness that we have a King, who, after the exposing his own Person for the good of <hi>England,</hi> as much as the meanest of his Subjects, has sur<g ref="char:EOLhyphen"/>mounted all those Difficulties which his Enemies, or pre<g ref="char:EOLhyphen"/>tended Friends, have laid in the way. We have a wise and learned Bench of <hi>Bishops,</hi> not to be governed by any body, with the face and Talents of a <hi>Jew;</hi> and the Generallity of our <hi>Inferior Clergy</hi> at last are sensible, that this is the <hi>King</hi> whom God has set over them; and as we are to presume that they have not mocked <hi>God Almighty</hi> in their Pulpits; we are to believe them in earnest in that joy which they have expressed in their Sermons, for his Majesty's Return with Victory; and therefore that they will promote the Interest of this Government in Elections. As to the <hi>Common People,</hi> sincerity and, love of their, Country, has hitherto been great part of their Character, as <hi>Englishmen;</hi> and it is not to be doubted, but they will now shew themselves such by their <hi>Elections.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for the Author, 1695.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
